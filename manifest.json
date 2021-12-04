@@ -21,7 +21,7 @@
     ],
     "theme_color": "2D2E39",
     "background_color": "#2D2E39",
-    "start_url": "/mh-shopping-app/",
+    "start_url": "/shopping-app/",
     "display": "standalone",
     "orientation": "portrait"
 }
